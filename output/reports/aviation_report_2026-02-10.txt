@@ -1,0 +1,23 @@
+
+Flight ID: AI203
+Route: DEL → MUM
+Predicted Delay: 125 mins
+Delay Reasons: High crosswind, Low visibility, Thunderstorm, Engine maintenance issue, Cabin pressure drop, Runway congestion
+Crew Assigned: CPT001 (PRIMARY) if crew else 'Not Available'
+Passenger Load: 89% (Normal demand)
+Weather Risk: HIGH
+Diversion Required: True
+Alternate Airport: AMD
+----------------------------------------
+
+
+Flight ID: 6E445
+Route: BLR → HYD
+Predicted Delay: 0 mins
+Delay Reasons: None
+Crew Assigned: FO002 (PRIMARY) if crew else 'Not Available'
+Passenger Load: 48% (Under-utilized)
+Weather Risk: LOW
+Diversion Required: False
+Alternate Airport: N/A
+----------------------------------------

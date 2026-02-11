@@ -1,0 +1,7 @@
+{
+  "airline_name": "Demo Airlines",
+  "max_crosswind_knots": 40,
+  "min_visibility_meters": 1500,
+  "engine_thrust_deviation_percent": 20,
+  "runway_queue_limit_minutes": 25
+}

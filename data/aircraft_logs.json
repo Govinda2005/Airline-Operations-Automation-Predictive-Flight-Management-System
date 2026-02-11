@@ -1,0 +1,43 @@
+[
+  {
+    "flight_id": "AI203",
+    "aircraft_id": "A320-NEO-01",
+    "timestamp": "2026-01-25T08:30:00",
+
+    "engine_thrust": 78,
+    "engine_thrust_deviation": 22,
+    "engine_vibration": 9.2,
+
+    "cabin_pressure_delta": -3.5,
+    "cabin_temperature": 27,
+
+    "airspeed": 780,
+    "altitude": 35000,
+    "turbulence_level": "moderate",
+
+    "fuel_burn_rate": 5.8,
+
+    "status_code": "WARN"
+  },
+
+  {
+    "flight_id": "6E445",
+    "aircraft_id": "A321-02",
+    "timestamp": "2026-01-25T09:10:00",
+
+    "engine_thrust": 82,
+    "engine_thrust_deviation": 5,
+    "engine_vibration": 4.1,
+
+    "cabin_pressure_delta": -0.5,
+    "cabin_temperature": 23,
+
+    "airspeed": 800,
+    "altitude": 36000,
+    "turbulence_level": "low",
+
+    "fuel_burn_rate": 4.9,
+
+    "status_code": "OK"
+  }
+]

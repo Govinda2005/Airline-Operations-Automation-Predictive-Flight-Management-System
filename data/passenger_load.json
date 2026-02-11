@@ -1,0 +1,14 @@
+{
+  "AI203": {
+    "route": "DEL-MUM",
+    "capacity": 180,
+    "historical_load_factors": [0.82, 0.88, 0.91, 0.94, 0.89],
+    "holiday": true
+  },
+  "6E445": {
+    "route": "BLR-HYD",
+    "capacity": 220,
+    "historical_load_factors": [0.45, 0.50, 0.48, 0.52, 0.47],
+    "holiday": false
+  }
+}

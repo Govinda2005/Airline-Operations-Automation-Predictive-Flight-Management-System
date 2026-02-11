@@ -1,0 +1,16 @@
+{
+  "AI203": {
+    "crosswind": 45,
+    "visibility": 1200,
+    "thunderstorm": true,
+    "runway_queue_time": 30,
+    "weather_risk_level": "HIGH"
+  },
+  "6E445": {
+    "crosswind": 15,
+    "visibility": 6000,
+    "thunderstorm": false,
+    "runway_queue_time": 10,
+    "weather_risk_level": "LOW"
+  }
+}

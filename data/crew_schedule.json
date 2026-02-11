@@ -1,0 +1,23 @@
+[
+  {
+    "crew_id": "CPT001",
+    "role": "Pilot",
+    "available": true,
+    "rest_hours": 10,
+    "standby": false
+  },
+  {
+    "crew_id": "FO002",
+    "role": "Co-Pilot",
+    "available": true,
+    "rest_hours": 9,
+    "standby": false
+  },
+  {
+    "crew_id": "CAB101",
+    "role": "Cabin Crew",
+    "available": false,
+    "rest_hours": 5,
+    "standby": true
+  }
+]

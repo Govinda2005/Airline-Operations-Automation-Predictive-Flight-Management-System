@@ -1,0 +1,49 @@
+AIRLINE DAILY OPERATIONS REPORT
+Date: 2026-02-10
+==================================================
+
+Flight ID: FL101
+Delay: 30 minutes
+Delay Reason: Crew unavailable
+Crew Status: Crew Shortage
+Assigned Crew: None
+Passengers: 91
+Load Status: Normal load
+Expected Demand: Medium
+--------------------------------------------------
+Flight ID: FL201
+Delay: 90 minutes
+Delay Reason: Thunderstorm, Low visibility, Runway congestion, Crew unavailable
+Crew Status: Crew Shortage
+Assigned Crew: None
+Passengers: 155
+Load Status: Normal load
+Expected Demand: Medium
+--------------------------------------------------
+Flight ID: FL301
+Delay: 45 minutes
+Delay Reason: Low visibility, Crew unavailable
+Crew Status: Crew Shortage
+Assigned Crew: None
+Passengers: 54
+Load Status: Under-utilized
+Expected Demand: Medium
+--------------------------------------------------
+Flight ID: FL401
+Delay: 110 minutes
+Delay Reason: High crosswind, Thunderstorm, Low visibility, Runway congestion, Crew unavailable
+Crew Status: Crew Shortage
+Assigned Crew: None
+Passengers: 178
+Load Status: Normal load
+Expected Demand: Medium
+--------------------------------------------------
+Flight ID: FL501
+Delay: 95 minutes
+Delay Reason: Thunderstorm, Cabin pressure issue, Runway congestion, Crew unavailable
+Crew Status: Crew Shortage
+Assigned Crew: None
+Passengers: 165
+Load Status: Normal load
+Expected Demand: Medium
+--------------------------------------------------

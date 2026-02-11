@@ -1,0 +1,14 @@
+{
+  "AI203": {
+    "origin": "DEL",
+    "destination": "MUM",
+    "alternate": "AMD",
+    "distance_km": 1150
+  },
+  "6E445": {
+    "origin": "BLR",
+    "destination": "HYD",
+    "alternate": "MAA",
+    "distance_km": 570
+  }
+}
